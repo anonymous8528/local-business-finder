@@ -35,5 +35,5 @@ Before setup, ensure you have:
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/[yourusername]/local-business-finder.git
+   git clone https://github.com/anonymous8528/local-business-finder.git
    cd local-business-finder
