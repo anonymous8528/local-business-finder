@@ -8,7 +8,6 @@ This project is intentionally lightweight—no authentication, advanced routing,
 [![Node.js](https://img.shields.io/badge/Node.js-v18%2B-green.svg)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-18%2B-blue.svg)](https://reactjs.org)
   
-*(Replace with actual screenshot: A clean page with a header and grid of business cards on a gray background.)*
 
 ## Features
 - **Backend**: Express server with MongoDB integration via Mongoose. Seeds dummy data (3 businesses) on startup.
